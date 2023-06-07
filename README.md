@@ -7,6 +7,7 @@ I'm a data analyst enthusiast, with 5+ years work experience in the telecommunic
 
 - <b>Python</b>
   - [911 calls Data Analysis](https://github.com/Maryam-Hosseini91/911-calls)
+  - [Finance Data Analysis](https://github.com/Maryam-Hosseini91/Finance-Data-Analysis/tree/main)
 
 - <b> Data Visualization:</b>
   - [Tableau Public](https://public.tableau.com/app/profile/maryam.hosseini4648)
