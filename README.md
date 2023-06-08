@@ -13,6 +13,7 @@ I'm a data analyst enthusiast, with 5+ years work experience in the telecommunic
   - [Linear Regression Project](https://github.com/Maryam-Hosseini91/Linear-Regression-Project)
   - [Logistic Regression Project](https://github.com/Maryam-Hosseini91/Logistic-Regression)
   - [K-Nearest-Neighbors](https://github.com/Maryam-Hosseini91/K-Nearest-Neighbors)
+  - [Decision Tree and Random Forest Project](https://github.com/Maryam-Hosseini91/Decision-Tree-and-Random-Forest-Project/blob/main/README.md)
 
 <h2>Data Visualization</h2>
 
