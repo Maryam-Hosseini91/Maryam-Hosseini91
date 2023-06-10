@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maryam! </h1>
 
-With a solid background in telecommunications engineering and Network Performance analysis, I have embarked on an exciting journey into the realm of data science. Passionate about applying advanced analytics to drive innovation and solve complex problems. Constantly learning and expanding my skills in programming, machine learning, and statistical analysis. Looking forward to collaborating on exciting data-driven projects and contributing to the intersection of telecom and data science.
+With 5+ years work experience in telecommunications engineering and Network Performance analysis, I have embarked on an exciting journey into the realm of data science. Passionate about applying advanced analytics to drive innovation and solve complex problems. Constantly learning and expanding my skills in programming, machine learning, and statistical analysis. Looking forward to collaborating on exciting data-driven projects and contributing to the intersection of telecom and data science.
                             
 <h2> Data Analytics Projects with Python:</h2>
 
