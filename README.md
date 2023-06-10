@@ -1,6 +1,6 @@
 <h1>Hi, I'm Maryam! </h1>
 
-I'm a data analyst enthusiast, with 5+ years work experience in the telecommunication field and I have master's degree in telecommunication-system engineering. My passion for working with data made me start my journey in the world of data analytics. Since then I have realized that I cannot stop expanding and refining my skills in this field. I love working with raw data to extract insights and meaningful patterns to drive strategic decision-making.
+With a solid background in telecommunications engineering and Network Performance analysis, I have embarked on an exciting journey into the realm of data science. Passionate about applying advanced analytics to drive innovation and solve complex problems. Constantly learning and expanding my skills in programming, machine learning, and statistical analysis. Looking forward to collaborating on exciting data-driven projects and contributing to the intersection of telecom and data science.
                             
 <h2> Data Analytics Projects with Python:</h2>
 
