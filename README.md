@@ -14,6 +14,7 @@ With 5+ years work experience in telecommunications engineering and Network Perf
   - [Logistic Regression Project](https://github.com/Maryam-Hosseini91/Logistic-Regression)
   - [K-Nearest Neighbors](https://github.com/Maryam-Hosseini91/K-Nearest-Neighbors)
   - [Decision Tree and Random Forest Project](https://github.com/Maryam-Hosseini91/Decision-Tree-and-Random-Forest-Project/blob/main/README.md)
+  - [Support Vector Machines(SVM)](https://github.com/Maryam-Hosseini91/SVM)
 
 <h2>Data Visualization</h2>
 
