@@ -20,7 +20,7 @@ With 5+ years work experience in telecommunications engineering and Network Perf
 
   - [Energy Consumption in the world (Tableau)](https://public.tableau.com/app/profile/maryam.hosseini4648/viz/EnergyConsumptionintheworld/Story1)
 
-
+  - [Telco Customer Churn (Tableau)](https://public.tableau.com/app/profile/maryam.hosseini4648/viz/TelcoCustomerChurn_v2/Dashboard6)
 
 <h2> Connect with me:</h2>
 
